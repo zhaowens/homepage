@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-欢迎报考[杭州师范大学信息学院](https://hise.hznu.edu.cn/). 
+徐赵文，杭州师范大学，硕士生导师，副教授
 
 教育经历
 ------
