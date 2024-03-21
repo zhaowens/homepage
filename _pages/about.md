@@ -18,6 +18,10 @@ redirect_from:
 ------
 控制理论与应用，无人系统
 
+教育教学
+------
+电子线路CAD 春季 48学时
+
 Publication List
 ------
 1. Xu Zhaowen; Wu Zheng Guang; Su Hongye; Shi Peng; Que Haoyi ; Energy-to-Peak Filtering of Semi-Markov Jump Systems With Mismatched Modes, IEEE Transactions on Automatic Control, 2020, 65(10): 4356-4361
