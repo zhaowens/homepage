@@ -17,8 +17,8 @@ redirect_from:
 Publication List
 ------
 [1]. Xu Zhaowen; Wu Zheng Guang; Su Hongye; Shi Peng; Que Haoyi ; Energy-to-Peak Filtering of Semi-Markov Jump Systems With Mismatched Modes, IEEE Transactions on Automatic Control, 2020, 65(10): 4356-4361
-[2]. Xu Zhaowen; Su Hongye; Shi Peng; Wu Zheng Guang ; Asynchronous H-infinity control of semi-Markov jump linear systems, Applied Mathematics and Computation, 2019, 349: 270-280
-[3]. Xu Zhaowen; Shi Peng; Su Hongye; Wu Zheng Guang; Huang Tingwen ; Global H-infinity Pinning Synchronization of Complex Networks With Sampled-Data 
+[1]. Xu Zhaowen; Su Hongye; Shi Peng; Wu Zheng Guang ; Asynchronous H-infinity control of semi-Markov jump linear systems, Applied Mathematics and Computation, 2019, 349: 270-280
+[1]. Xu Zhaowen; Shi Peng; Su Hongye; Wu Zheng Guang; Huang Tingwen ; Global H-infinity Pinning Synchronization of Complex Networks With Sampled-Data 
 
 **Markdown generator**
 
