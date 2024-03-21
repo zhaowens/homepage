@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "欢迎加入我们"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 欢迎报考[杭州师范大学](https://hise.hznu.edu.cn/). [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Publication List
-======
+------
 1. Xu Zhaowen; Wu Zheng Guang; Su Hongye; Shi Peng; Que Haoyi ; Energy-to-Peak Filtering of Semi-Markov Jump Systems With Mismatched Modes, IEEE Transactions on Automatic Control, 2020, 65(10): 4356-4361
 1. Xu Zhaowen; Su Hongye; Shi Peng; Wu Zheng Guang ; Asynchronous H-infinity control of semi-Markov jump linear systems, Applied Mathematics and Computation, 2019, 349: 270-280
 1. Xu Zhaowen; Shi Peng; Su Hongye; Wu Zheng Guang; Huang Tingwen ; Global H-infinity Pinning Synchronization of Complex Networks With Sampled-Data 
